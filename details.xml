@@ -1,0 +1,27 @@
+<?xml version="1.0" standalone="yes" ?> 
+- <DocumentElement>
+- <Details>
+  <Firstname>Murali</Firstname> 
+  <Lastname>Manohar</Lastname> 
+  <Email>123456@gmail.com</Email> 
+  <Mobile>0123456789</Mobile>  
+  </Details>
+-  <Details>
+  <Firstname>Ajitha</Firstname> 
+  <Lastname>Sekar</Lastname> 
+  <Email>123456@gmail.com</Email> 
+  <Mobile>0123456789</Mobile>  
+  </Details>
+-  <Details>
+  <Firstname>sujitha</Firstname> 
+  <Lastname>sekar</Lastname> 
+  <Email>123456@gmail.com</Email> 
+  <Mobile>0123456789</Mobile>  
+  </Details>
+-  <Details>
+  <Firstname>dipesh</Firstname> 
+  <Lastname>singh</Lastname> 
+  <Email>123456@gmail.com</Email> 
+  <Mobile>0123456789</Mobile>  
+  </Details>
+  </DocumentElement>

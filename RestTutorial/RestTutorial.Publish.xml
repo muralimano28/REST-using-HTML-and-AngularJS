@@ -1,0 +1,17 @@
+<publishData>
+  <publishTarget publishUrl="E:\Tutorial\">
+    <file relUrl="bin/RestTutorial.dll.config" publishTime="04/02/2015 11:17:37" />
+    <file relUrl="Web.config" publishTime="04/02/2015 11:17:37" />
+    <file relUrl="bin/RestTutorial.pdb" publishTime="04/02/2015 15:55:53" />
+    <file relUrl="RestTutorial.Service1.svc" publishTime="04/02/2015 15:55:54" />
+    <file relUrl="details.xml" publishTime="04/02/2015 14:08:39" />
+    <file relUrl="bin/RestTutorial.dll" publishTime="04/02/2015 15:55:53" />
+  </publishTarget>
+  <publishTarget publishUrl="E:\Service5 POST method\">
+    <file relUrl="bin/RestTutorial.dll" publishTime="04/02/2015 11:15:40" />
+    <file relUrl="bin/RestTutorial.pdb" publishTime="04/02/2015 11:15:40" />
+    <file relUrl="bin/RestTutorial.dll.config" publishTime="04/02/2015 11:09:16" />
+    <file relUrl="RestTutorial.Service1.svc" publishTime="04/02/2015 11:15:41" />
+    <file relUrl="Web.config" publishTime="04/02/2015 11:09:16" />
+  </publishTarget>
+</publishData>

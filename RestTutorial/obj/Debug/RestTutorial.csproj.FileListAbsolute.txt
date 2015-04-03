@@ -1,0 +1,5 @@
+c:\users\gur38424\documents\visual studio 2013\Projects\RestTutorial\RestTutorial\bin\Debug\RestTutorial.dll.config
+c:\users\gur38424\documents\visual studio 2013\Projects\RestTutorial\RestTutorial\bin\Debug\RestTutorial.dll
+c:\users\gur38424\documents\visual studio 2013\Projects\RestTutorial\RestTutorial\bin\Debug\RestTutorial.pdb
+c:\users\gur38424\documents\visual studio 2013\Projects\RestTutorial\RestTutorial\obj\Debug\RestTutorial.dll
+c:\users\gur38424\documents\visual studio 2013\Projects\RestTutorial\RestTutorial\obj\Debug\RestTutorial.pdb
